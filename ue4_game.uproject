@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A4E6130C-4EB6-69A2-9FD4-A390ECE439E4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ue4_game",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
