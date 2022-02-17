@@ -13,5 +13,6 @@ UCLASS()
 class UE4_GAME_API UMyBlueprintFunctionLibrary : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
-	
+		UFUNCTION(BlueprintPure, meta = (WorldContext = "WorldContextObject"))
+		static const FString GetNetworkURL(UObject* WorldContextObject);
 };
