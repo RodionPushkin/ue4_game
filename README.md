@@ -1,4 +1,6 @@
 # ue4_game
+презенташка https://docs.google.com/presentation/d/1wSPhDuTh4l5_Fz7_wvJiOkbkYEam3Qe1t__isp2FFQM/edit?usp=sharing
+
 посмотреть геймплей можно в по ссылке https://disk.yandex.ru/d/PWNEq7Drvwy7uQ, второй видосик https://disk.yandex.ru/d/a_L82vsFSMpNDA
 
 скриншоты
