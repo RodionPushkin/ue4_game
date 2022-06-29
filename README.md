@@ -4,6 +4,8 @@
 посмотреть геймплей можно в по ссылке https://disk.yandex.ru/d/PWNEq7Drvwy7uQ, второй видосик https://disk.yandex.ru/d/a_L82vsFSMpNDA
 
 файлы игры и апи находятся на двух разных ветках этого репозитория
+
+
 скриншоты
 ![2022-06-29 12-41-09 Скриншот экрана](https://user-images.githubusercontent.com/50911976/176533987-a31a264c-9a69-49f2-9d44-a178a67f09f6.png)
 ![image](https://user-images.githubusercontent.com/50911976/176534126-732b18ed-181a-491b-9438-851894504dc0.png)
