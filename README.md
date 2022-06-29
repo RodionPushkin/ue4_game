@@ -1,5 +1,6 @@
 # ue4_game
 посмотреть геймплей можно в по ссылке https://disk.yandex.ru/d/PWNEq7Drvwy7uQ
+второй видосик https://disk.yandex.ru/d/a_L82vsFSMpNDA
 скриншоты
 ![2022-06-29 12-41-09 Скриншот экрана](https://user-images.githubusercontent.com/50911976/176533987-a31a264c-9a69-49f2-9d44-a178a67f09f6.png)
 ![image](https://user-images.githubusercontent.com/50911976/176534126-732b18ed-181a-491b-9438-851894504dc0.png)
@@ -17,5 +18,7 @@
 настройки
 ![image](https://user-images.githubusercontent.com/50911976/176534181-bda4965b-997f-47f7-8632-a3364a58e3ff.png)
 ![image](https://user-images.githubusercontent.com/50911976/176534246-c54f1d60-5a22-4611-bbd7-c2485cabe1f4.png)
+![image](https://user-images.githubusercontent.com/50911976/176534499-11dc8224-d891-4fb3-9a91-8bdc321d6541.png)
+
 
 
